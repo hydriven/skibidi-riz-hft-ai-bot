@@ -1,0 +1,96 @@
+# SKIBIDI RIZ HFT AI BOT - Setup and User Manual
+
+---
+
+## 🛠 Installation
+
+1. Download the SKIBIDI RIZ HFT AI BOT EA `.mq5` file.
+2. Open **MetaTrader 5**.
+3. Click **File → Open Data Folder**.
+4. Navigate to:
+   ```
+   MQL5/Experts/
+   ```
+5. Paste the EA `.mq5` file here.
+6. Navigate back to the Data Folder main menu, then to:
+   ```
+   MQL5/Images/
+   ```
+7. Paste the `skibidiriz_panel.bmp` background image into the **Images** folder.
+
+✅ EA and background are now correctly installed.
+
+---
+
+## 🔧 Compiling and Loading
+
+1. Open **MetaEditor**.
+2. Open the SKIBIDI RIZ HFT AI BOT `.mq5` file.
+3. Press **F7** to compile.
+4. Return to MetaTrader 5.
+5. Attach SKIBIDI RIZ HFT AI BOT to any chart (preferably **M1 timeframe**).
+6. Enable **AutoTrading** (green "AutoTrading" button).
+
+---
+
+## 🎛️ Panel Overview
+
+| Component              | Function                                              |
+|:-----------------------|:-------------------------------------------------------|
+| Start/Stop Trading     | Instantly enable or disable the trading bot             |
+| Mode Switch            | Toggle between Normal and Hyper HFT modes              |
+| Trading Status Label   | Blinking neon text indicating "Trading ON" or "OFF"    |
+| Profit Display         | Live account profit/loss for the current day            |
+| Spread Display         | Live market spread measurement                          |
+| Lot Size Display       | Active lot size for future trades                       |
+
+✅ Dynamic panel resizing included!
+
+---
+
+## 📈 Recommended Settings
+
+| Parameter     | Suggested Value |
+|:--------------|:----------------|
+| Lot Size      | 0.01             |
+| Fast MA       | 5                |
+| Slow MA       | 20               |
+| Timeframe     | M1               |
+| Max Spread    | 30               |
+
+✅ Trade best on low spread assets like XRPUSD, EURUSD.
+
+---
+
+## 🚀 Trading Modes Explained
+
+- **NORMAL Mode**
+  - Safer trading based on confirmed candle closures.
+  - Fewer but cleaner entries.
+
+- **HYPER Mode**
+  - Aggressive high-frequency mode.
+  - Opens trades instantly when conditions match.
+  - Best during high-volatility sessions.
+
+Switch instantly between modes with one click inside the panel.
+
+---
+
+## 🔥 Pro Tips
+
+- Use **tight spread brokers** for maximum efficiency.
+- Watch your **live spread** on the panel.
+- Set a low LotSize for account protection in Hyper mode.
+- Trade during high liquidity times like London/NY Opens.
+
+---
+
+## 🔖 Final Notes
+
+SKIBIDI RIZ HFT AI BOT is built for speed, precision, and full visual control.  
+Use it to dominate fast markets with a dashboard interface that feels tactical, modern, and elite.
+
+Good luck and happy trading, Wayne! 🚀🌟
+
+

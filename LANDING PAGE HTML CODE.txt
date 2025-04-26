@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>SKIBIDI RIZ HFT AI BOT</title>
+  <style>
+    body {
+      background-color: #0a0a0a;
+      color: #00ff99;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 50px;
+    }
+    h1 {
+      font-size: 50px;
+      margin-bottom: 10px;
+    }
+    h2 {
+      font-size: 30px;
+      color: #66ffe0;
+    }
+    p {
+      font-size: 18px;
+      margin-top: 20px;
+    }
+    .button {
+      margin-top: 40px;
+      padding: 15px 30px;
+      background-color: #00ff99;
+      color: #000;
+      font-size: 20px;
+      text-decoration: none;
+      border-radius: 8px;
+    }
+    .button:hover {
+      background-color: #00cc77;
+    }
+  </style>
+</head>
+<body>
+  <h1>SKIBIDI RIZ HFT AI BOT</h1>
+  <h2>High-Frequency, High-Impact Trading for MT5</h2>
+  <p>Precision Speed. Tactical Control. Legendary Power.<br>Unleash the full potential of your trading with the Skibidi Riz HFT AI BOT.</p>
+  <a href="YOUR_DOWNLOAD_LINK_HERE" class="button">Download Now</a>
+</body>
+</html>
